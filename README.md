@@ -59,13 +59,6 @@ streamlit run app.py
 
 ---
 
-## Demo
-
-<p align="center">
-  <img src="screenshot.png" alt="AI Heart Risk Analyzer" width="800"/>
-</p>
-
----
 
 ## Dataset
 
